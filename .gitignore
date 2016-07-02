@@ -1,0 +1,7 @@
+__pycache__/
+keras-plays-catch/
+log
+mnist/
+*.p
+*.dot
+*.png
